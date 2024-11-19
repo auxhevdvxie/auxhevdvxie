@@ -6,7 +6,7 @@
 - [Python 学习笔记](python.md)  
   记录 Python 的学习过程与实践技巧。
   
-- [NLP 学习笔记](NPL.md)  
+- [NLP 学习笔记](NLP.md)  
   自然语言处理相关的基础与项目经验。
 
 ---
